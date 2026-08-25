@@ -1,1 +1,7 @@
 Hi This version is v1.
+
+git init
+git status
+git add 
+git commit -m "~"
+
