@@ -5,3 +5,6 @@ git status
 git add 
 git commit -m "~"
 
+git push original master
+git pull original master
+hhh
